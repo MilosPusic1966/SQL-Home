@@ -1,2 +1,2 @@
-nista
+nista nije bilo u fajlu
 
