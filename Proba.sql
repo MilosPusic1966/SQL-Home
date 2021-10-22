@@ -1,2 +1,2 @@
 use matura
-select * from ocena
+select * from ocena where ocena > 1
